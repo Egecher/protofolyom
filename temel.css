@@ -46,7 +46,8 @@ header ul{
 
 header ul li{
     display: block;
-    padding: 30px;
+    margin-top: 10px;
+    padding: 20px;
     float: left;
 }
 
